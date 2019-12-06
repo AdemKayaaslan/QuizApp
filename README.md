@@ -1,2 +1,2 @@
 # QuizApp
-Written in JSON format with quiz API.
+Written with quiz API in JSON format.
